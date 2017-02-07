@@ -1,0 +1,4 @@
+INFO - Starting parse-preprocess.
+INFO - Sentence: ROOT The SEC will probably vote on the proposal early next year , he said .
+INFO - Tokens: [Token [pos=0, label=ROOT], Token [pos=5, label=The], Token [pos=9, label=SEC], Token [pos=13, label=will], Token [pos=18, label=probably], Token [pos=27, label=vote], Token [pos=32, label=on], Token [pos=35, label=the], Token [pos=39, label=proposal], Token [pos=48, label=early], Token [pos=54, label=next], Token [pos=59, label=year], Token [pos=64, label=,], Token [pos=66, label=he], Token [pos=69, label=said], Token [pos=74, label=.]]
+INFO - Found 904 trees in lexicon which can possibly match in the sentence.

@@ -1,0 +1,4 @@
+INFO - Starting parse-preprocess.
+INFO - Sentence: ROOT Not all those who wrote oppose the changes .
+INFO - Tokens: [Token [pos=0, label=ROOT], Token [pos=5, label=Not], Token [pos=9, label=all], Token [pos=13, label=those], Token [pos=19, label=who], Token [pos=23, label=wrote], Token [pos=29, label=oppose], Token [pos=36, label=the], Token [pos=40, label=changes], Token [pos=48, label=.]]
+INFO - Found 147 trees in lexicon which can possibly match in the sentence.

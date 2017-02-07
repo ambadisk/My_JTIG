@@ -1,0 +1,4 @@
+INFO - Starting parse-preprocess.
+INFO - Sentence: ROOT According to some estimates , the rule changes would cut insider filings by more than a third .
+INFO - Tokens: [Token [pos=0, label=ROOT], Token [pos=5, label=According], Token [pos=15, label=to], Token [pos=18, label=some], Token [pos=23, label=estimates], Token [pos=33, label=,], Token [pos=35, label=the], Token [pos=39, label=rule], Token [pos=44, label=changes], Token [pos=52, label=would], Token [pos=58, label=cut], Token [pos=62, label=insider], Token [pos=70, label=filings], Token [pos=78, label=by], Token [pos=81, label=more], Token [pos=86, label=than], Token [pos=91, label=a], Token [pos=93, label=third], Token [pos=99, label=.]]
+INFO - Found 975 trees in lexicon which can possibly match in the sentence.

@@ -1,0 +1,4 @@
+INFO - Starting parse-preprocess.
+INFO - Sentence: ROOT But about 25 % of the insiders , according to SEC figures , file their reports late .
+INFO - Tokens: [Token [pos=0, label=ROOT], Token [pos=5, label=But], Token [pos=9, label=about], Token [pos=15, label=25], Token [pos=18, label=%], Token [pos=20, label=of], Token [pos=23, label=the], Token [pos=27, label=insiders], Token [pos=36, label=,], Token [pos=38, label=according], Token [pos=48, label=to], Token [pos=51, label=SEC], Token [pos=55, label=figures], Token [pos=63, label=,], Token [pos=65, label=file], Token [pos=70, label=their], Token [pos=76, label=reports], Token [pos=84, label=late], Token [pos=89, label=.]]
+INFO - Found 1596 trees in lexicon which can possibly match in the sentence.

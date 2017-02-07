@@ -1,0 +1,6 @@
+lexicon\valid\LexiconValidTest.class
+parser\core\ParserTests.class
+lexicon\unvalid\LexiconUnvalidTest.class
+parser\early\components\agenda\AgendaTest.class
+tools\GeneralToolsTest.class
+tools\tokenizer\MorphAdornoSentenceTokenizerTest.class
