@@ -1,0 +1,11 @@
+6 [main] INFO root - JTIG parser started.
+33 [main] INFO root - Read lexicon 'C:\Users\sampath\Desktop\JTIG-master\bin\test-classes\lexicon\valid\Ambiguity.xml' successfully.
+514 [main] INFO root - Read lexicon 'C:\Users\sampath\Desktop\JTIG-master\bin\test-classes\lexicon\valid\German_conll_5000.xml' successfully.
+518 [main] INFO root - Read lexicon 'C:\Users\sampath\Desktop\JTIG-master\bin\test-classes\lexicon\valid\POS.xml' successfully.
+521 [main] INFO root - Read lexicon 'C:\Users\sampath\Desktop\JTIG-master\bin\test-classes\lexicon\valid\Schabes.xml' successfully.
+523 [main] INFO root - Read lexicon 'C:\Users\sampath\Desktop\JTIG-master\bin\test-classes\lexicon\valid\SchabesModified.xml' successfully.
+699 [main] INFO root - Read lexicon 'C:\Users\sampath\Desktop\JTIG-master\bin\test-classes\lexicon\valid\Xia.lisp' successfully.
+d lexicon 'C:\Users\sampath\Desktop\JTIG-master\bin\test-classes\lexicon\valid\POS.xml' successfully.
+975 [main] INFO root - Read lexicon 'C:\Users\sampath\Desktop\JTIG-master\bin\test-classes\lexicon\valid\Schabes.xml' successfully.
+977 [main] INFO root - Read lexicon 'C:\Users\sampath\Desktop\JTIG-master\bin\test-classes\lexicon\valid\SchabesModified.xml' successfully.
+1153 [main] INFO root - Read lexicon 'C:\Users\sampath\Desktop\JTIG-master\bin\test-classes\lexicon\valid\Xia.lisp' successfully.
